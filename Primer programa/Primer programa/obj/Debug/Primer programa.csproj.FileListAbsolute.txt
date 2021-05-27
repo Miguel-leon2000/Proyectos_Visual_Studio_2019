@@ -1,0 +1,10 @@
+C:\Users\miguel\Desktop\Proyectos Visual Studio 2019\Primer programa\Primer programa\bin\Debug\Primer programa.exe.config
+C:\Users\miguel\Desktop\Proyectos Visual Studio 2019\Primer programa\Primer programa\bin\Debug\Primer programa.exe
+C:\Users\miguel\Desktop\Proyectos Visual Studio 2019\Primer programa\Primer programa\bin\Debug\Primer programa.pdb
+C:\Users\miguel\Desktop\Proyectos Visual Studio 2019\Primer programa\Primer programa\obj\Debug\Primer programa.csprojAssemblyReference.cache
+C:\Users\miguel\Desktop\Proyectos Visual Studio 2019\Primer programa\Primer programa\obj\Debug\Primer_programa.Form1.resources
+C:\Users\miguel\Desktop\Proyectos Visual Studio 2019\Primer programa\Primer programa\obj\Debug\Primer_programa.Properties.Resources.resources
+C:\Users\miguel\Desktop\Proyectos Visual Studio 2019\Primer programa\Primer programa\obj\Debug\Primer programa.csproj.GenerateResource.cache
+C:\Users\miguel\Desktop\Proyectos Visual Studio 2019\Primer programa\Primer programa\obj\Debug\Primer programa.csproj.CoreCompileInputs.cache
+C:\Users\miguel\Desktop\Proyectos Visual Studio 2019\Primer programa\Primer programa\obj\Debug\Primer programa.exe
+C:\Users\miguel\Desktop\Proyectos Visual Studio 2019\Primer programa\Primer programa\obj\Debug\Primer programa.pdb
